@@ -12,7 +12,7 @@ asyncpg==0.29.0                # async postgres driver
 psycopg2-binary==2.9.9         # sync driver (alembic needs this)
 pgvector==0.2.5                # vector similarity search
 
-openai-whisper==20231117       # local whisper transcription
+#openai-whisper==20231117       # local whisper transcription
 anthropic==0.26.1              # claude API
 openai==1.30.1                 # embeddings (text-embedding-3-small)
 torch==2.3.0                   # whisper dependency
